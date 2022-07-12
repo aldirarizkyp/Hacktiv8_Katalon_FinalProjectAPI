@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Get Single Resource Not Found</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd94b932-eb5c-4387-96e6-997b5551aa6c</testCaseGuid>
+</TestCaseEntity>
