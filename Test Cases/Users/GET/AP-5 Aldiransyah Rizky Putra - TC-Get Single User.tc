@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Aldiransyah Rizky Putra - TC-Get Single User
+Description: </description>
+   <name>AP-5 Aldiransyah Rizky Putra - TC-Get Single User</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10031&quot;:[],&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i0003b:&quot;},&quot;status&quot;:{&quot;id&quot;:10000,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://timbelajar1.atlassian.net/&quot;,&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/status/10000&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/project/10001&quot;,&quot;key&quot;:&quot;AP&quot;,&quot;id&quot;:10001,&quot;name&quot;:&quot;API Project&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Aldiransyah Rizky Putra - TC-Get Single User&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;aldiransyahrizky@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Aldiransyah Rizky&quot;,&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/user?accountId\u003d622f0e355b6d710070a0475f&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;aldiransyahrizky@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Aldiransyah Rizky&quot;,&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/user?accountId\u003d622f0e355b6d710070a0475f&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/issue/AP-5/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/issue/10016&quot;,&quot;key&quot;:&quot;AP-5&quot;,&quot;id&quot;:10016}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>215dfcdd-0ca8-4c12-b4b6-e46c027aaa5a</testCaseGuid>
+</TestCaseEntity>

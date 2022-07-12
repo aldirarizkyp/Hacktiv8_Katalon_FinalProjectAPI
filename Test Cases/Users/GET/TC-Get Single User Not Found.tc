@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Get Single User Not Found</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a35aecf-1d71-4ed4-bb49-1f990406f8d7</testCaseGuid>
+</TestCaseEntity>
